@@ -1,0 +1,8 @@
+# Pycharm
+.idea/
+
+# Vim
+.*.swo
+.*.swp
+.*.swm
+.*.swn
